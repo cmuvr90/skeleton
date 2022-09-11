@@ -1,10 +1,11 @@
-import {FC} from "react";
+import React, {FC} from "react";
 
 /**
  *
+ * @param props
  * @constructor
  */
-export const Collections: FC = () => {
+export const Collections: FC = (props) => {
 
     return (
         <div>

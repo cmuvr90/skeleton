@@ -1,4 +1,5 @@
-import Link from "next/link"
+import React from 'react';
+import Link from "next/link";
 import style from '../../styles/conponents/Menu.module.scss'
 import {FC} from "react";
 
